@@ -1,0 +1,114 @@
+----------------------------------------------------
+On Fri May 29 07:23:02 2020
+ the order has been given
+ 
+VEG
+
+Kurkure  5\packet
+
+Butter Rice 
+
+Butter non-roti  8\piece
+
+Kaju Paneer  130\plate
+---------------------------------------------------------------------------------------------------------
+On Fri May 29 07:23:35 2020
+ the order has been given
+ 
+BOTH
+---------------------------------------------------------------------------------------------------------
+On Fri May 29 07:24:04 2020
+ the order has been given
+ 
+NON-VEG
+
+Ghee Rice  20\plate
+
+Butter non-roti  8\piece
+
+Kerala Chiken Roast  100\plate
+---------------------------------------------------------------------------------------------------------
+On Fri May 29 07:24:21 2020
+ the order has been given
+ 
+VEG
+
+Rasgulla  8\peice
+
+Butter Rice 
+
+Khowa pharatha  15\piece
+
+Rice and Beans  120\plate
+---------------------------------------------------------------------------------------------------------
+On Fri May 29 07:24:40 2020
+ the order has been given
+ 
+VEG
+
+Butter Rice 
+
+Rice and Beans  120\plate
+---------------------------------------------------------------------------------------------------------
+On Fri May 29 07:25:12 2020
+ the order has been given
+ 
+BOTH
+
+Butter non-roti  8\piece
+
+Chicken lollypop   100\plate
+---------------------------------------------------------------------------------------------------------
+On Fri May 29 08:25:53 2020
+ the order has been given
+ 
+NON-VEG
+
+Simple Thali  180\plate
+
+butter roti 5\piece
+
+Aaloo Pharatha  10\piece 
+---------------------------------------------------------------------------------------------------------
+On Thu Jun  4 14:25:32 2020
+ the order has been given
+ 
+VEG
+
+roti  3\piece
+
+MIX VEG  90\plate
+---------------------------------------------------------------------------------------------------------
+On Tue Jun 23 22:48:42 2020
+ the order has been given
+ 
+BOTH
+
+fried rice  25\plate
+
+Chicken Chettinad  120\plate
+---------------------------------------------------------------------------------------------------------
+On Wed Jul  1 15:42:28 2020
+ the order has been given
+ 
+VEG
+
+NON-VEG
+
+Khowa pharatha  15\piece
+
+Kerala Chiken Roast  100\plate
+---------------------------------------------------------------------------------------------------------
+On Wed Nov 11 18:29:06 2020
+ the order has been given
+ 
+NON-VEG
+
+Teekha Murg  100\plate
+
+Paneer Butter Mashala  145\plate
+
+Kurkure  5\packet
+
+Poolaw 20\plate
+-----------------------------------------------------

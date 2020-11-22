@@ -1,2 +1,2 @@
-# restorant-bill-app-in-python
-for fun and practice (used tkinter module)
+# shope menu 
+# Python tkinter
